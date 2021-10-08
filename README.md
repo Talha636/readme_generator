@@ -109,3 +109,4 @@ You are required to submit the following for review:
 ---
 
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+[URL to demo](https://watch.screencastify.com/v/Vtkt2lbf6tVLtWvzIm6l)
