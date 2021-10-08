@@ -50,8 +50,9 @@ ${data.tests}
 ## Questions
 
 Contact me with any questions about the project.
-[GitHub](github.com/${data.github})
-[Email](${data.email})
+
+GitHub Link: [GitHub](https://github.com/${data.github})
+Email: [Email](${data.email})
 `;
 }
 

@@ -1,8 +1,8 @@
-# Readme Generator
+# READMEgenerator.md
 
 ## Description
 
-This readme.md was created using a readme generator made by Talha636.
+This is an eaxample readme created using my generator.
 
 ## Table of Contents
 
@@ -15,11 +15,11 @@ This readme.md was created using a readme generator made by Talha636.
 
 ## Installation
 
-To install, copy files from my repository.
+Install instructions are on project readme.
 
 ## Usage
 
-This project was made to be used for creating a simple yet descriptive readme to save time on formatting.
+Usage information are on project readme.
 
 ## License
 
@@ -27,14 +27,15 @@ MIT
 
 ## Contributing
 
-To contibute, reach out to me using the links at the bottom of the page.
+Contribution guidelines are on project readme.
 
 ## Tests
 
-To test application, type 'node index.js' in your terminal/bash.
+test
 
 ## Questions
 
 Contact me with any questions about the project.
-[GitHub](github.com/Talha636)
-[Email](mtalhalatif@hotmail.com)
+
+GitHub Link: [GitHub](https://github.com/Talha636)
+Email: [Email](mtalhalatif@hotmail.com)
