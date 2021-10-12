@@ -43,4 +43,7 @@ Email: mtalhalatif@hotmail.com
 
 <img width="961" alt="Screen Shot 2021-10-08 at 12 17 37" src="https://user-images.githubusercontent.com/85548877/136590295-e08fdba1-33dc-4ae8-ada1-2b3fc42e6cfa.png">
 
+## Video Tutorial
+
+https://watch.screencastify.com/v/o4HDQPKkvnHYAsMpYgDX
 
